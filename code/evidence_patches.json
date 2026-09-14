@@ -1,0 +1,21 @@
+{
+  "images": [
+    {"event_id": "event_253",   "amount": 4365000,  "currency": "IDR", "date": "2019-08-31"},
+    {"event_id": "event_1442",  "amount": 100000,   "currency": "INR", "date": "2023-08-11"},
+    {"event_id": "event_1545",  "amount": 41272,    "currency": "INR", "date": "2026-02-27"},
+    {"event_id": "event_1700",  "amount": 2854,     "currency": "INR", "date": null},
+    {"event_id": "event_1786",  "amount": 704.05,   "currency": "INR", "date": "2026-02-06"},
+    {"event_id": "event_3051",  "amount": 1995,     "currency": "INR", "date": null},
+    {"event_id": "event_3231",  "amount": 8528,     "currency": "INR", "date": "2025-10-29"},
+    {"event_id": "event_4535",  "amount": 15339,    "currency": "INR", "date": "2026-07-24"},
+    {"event_id": "event_5170",  "amount": 723,      "currency": "INR", "date": "2026-06-07"},
+    {"event_id": "event_6033",  "amount": 79679.26, "currency": "INR", "date": null},
+    {"event_id": "event_6859",  "amount": 3650,     "currency": "INR", "date": "2023-01-19"},
+    {"event_id": "event_7307",  "amount": 33.50,    "currency": "USD", "date": "2025-10-01"},
+    {"event_id": "event_7941",  "amount": 2298,     "currency": "INR", "date": null},
+    {"event_id": "event_9421",  "amount": 4543,     "currency": "INR", "date": null},
+    {"event_id": "event_9806",  "amount": 9968,     "currency": "INR", "date": "2026-06-07"},
+    {"event_id": "event_10521", "amount": 393.22,   "currency": "INR", "date": "2026-09-03"}
+  ],
+  "messages": []
+}
